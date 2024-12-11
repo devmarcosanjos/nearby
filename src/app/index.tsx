@@ -1,7 +1,7 @@
 import { Button } from "@/src/components/button";
 import { Steps } from "@/src/components/steps";
 import { Welcome } from "@/src/components/welcome";
-import { View, Text } from "react-native";
+import { View } from "react-native";
 
 export default function Index() {
   return (
